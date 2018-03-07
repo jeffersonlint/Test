@@ -1,2 +1,2 @@
-# waluigiTest
+# Test
 test
